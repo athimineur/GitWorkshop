@@ -7,5 +7,7 @@ public class Main {
 		// points system here
 
 		System.out.println("hola");
+
+		// shop enhancements here
 	}
 }
