@@ -3,5 +3,7 @@ public class Main {
 		Cat cat = new Cat("Callie", 1, "Tortoiseshell", "Female");
 		System.out.println(cat);
 		System.out.println("hello");
+
+		// points system here
 	}
 }
