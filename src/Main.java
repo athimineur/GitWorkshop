@@ -5,5 +5,7 @@ public class Main {
 		System.out.println("hello");
 
 		// points system here
+
+		System.out.println("hola");
 	}
 }
